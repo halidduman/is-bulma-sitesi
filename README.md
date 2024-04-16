@@ -43,9 +43,8 @@ Tek sayfadan oluşan bu web sitesi, maviden yeşile geçişli bir renk paleti il
 
 **Ek Özellikler:**
 
-* Ürün ekleme ve düzenleme
-* Sepet ve ödeme sistemi
-* Kullanıcı oturum açma
+* Hover
+* Responsive
 
 **Renkler:**
 
